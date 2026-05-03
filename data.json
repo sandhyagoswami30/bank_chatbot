@@ -1,0 +1,74 @@
+[
+    {
+      "question": "What is KYC?",
+      "answer": "KYC (Know Your Customer) is a process used by banks to verify the identity of customers to prevent fraud and ensure security."
+    },
+    {
+      "question": "Why is KYC important?",
+      "answer": "KYC is important to prevent identity theft, fraud, and money laundering in banking systems."
+    },
+    {
+      "question": "What is a savings account?",
+      "answer": "A savings account is a bank account where you can deposit money, earn interest, and withdraw funds when needed."
+    },
+    {
+      "question": "How to open a bank account?",
+      "answer": "You can open a bank account by visiting a bank branch or applying online with required documents."
+    },
+    {
+      "question": "What documents are required to open a bank account?",
+      "answer": "You need identity proof such as Aadhaar and PAN card, address proof, and passport-size photographs."
+    },
+    {
+      "question": "What is minimum balance?",
+      "answer": "Minimum balance is the amount you must maintain in your account to avoid penalties."
+    },
+    {
+      "question": "What happens if minimum balance is not maintained?",
+      "answer": "If minimum balance is not maintained, the bank may charge a penalty fee."
+    },
+    {
+      "question": "What is ATM?",
+      "answer": "ATM (Automated Teller Machine) allows you to withdraw cash, check balance, and perform basic banking transactions."
+    },
+    {
+      "question": "What is debit card?",
+      "answer": "A debit card allows you to make payments or withdraw money directly from your bank account."
+    },
+    {
+      "question": "What is credit card?",
+      "answer": "A credit card allows you to borrow money from the bank and pay it back later."
+    },
+    {
+      "question": "What is UPI?",
+      "answer": "UPI (Unified Payments Interface) allows instant money transfer between bank accounts using a mobile app."
+    },
+    {
+      "question": "What is net banking?",
+      "answer": "Net banking allows you to perform banking transactions online using your bank’s website."
+    },
+    {
+      "question": "What is mobile banking?",
+      "answer": "Mobile banking allows you to perform banking transactions using a mobile application."
+    },
+    {
+      "question": "How to check account balance?",
+      "answer": "You can check your account balance using ATM, mobile banking, net banking, or SMS services."
+    },
+    {
+      "question": "How to transfer money?",
+      "answer": "You can transfer money using UPI, NEFT, RTGS, or IMPS through mobile or internet banking."
+    },
+    {
+      "question": "Hi",
+      "answer": "Hello! How can I assist you today?"
+    },
+    {
+      "question": "Hello",
+      "answer": "Hi there! How can I help you?"
+    },
+    {
+      "question": "Bye",
+      "answer": "Goodbye! Have a great day."
+    }
+]
